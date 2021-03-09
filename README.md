@@ -25,6 +25,7 @@
 - [x] Cadastro Serveys
 - [x] Calculo NPS
 - [x] Envio de E-mail  
+- [ ] DashBoard NPS 
 
 # ✅ Demonstração da aplicação
 
