@@ -77,7 +77,7 @@ $ cd Api
  3° - $ yarn dev - "inicia o backend" 
 ```
 
-<a href="https://insomnia.rest/run/?label=gobarber-jvictorfarias&uri=https%3A%2F%2Fgithub.com%2Fjvictorfarias%2FGoBarber%2Fblob%2Fmaster%2Fapi%2Finsomnia.json" target="_blank"><img src="https://insomnia.rest/images/run.svg" alt="Run in Insomnia"></a>
+<a href="https://insomnia.rest/run/?label=NLW%20-%20NPS%20API&uri=https%3A%2F%2Fraw.githubusercontent.com%2FNinjaAzul%2FNLW4%2Fmaster%2FApi%2Fpublic%2FNLW4.json" target="_blank"><img src="https://insomnia.rest/images/run.svg" alt="Run in Insomnia"></a>
 
 #### Iniciando o Frontend
 ```sh
