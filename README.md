@@ -62,5 +62,34 @@ As seguintes ferramentas foram usadas na construção do projeto:
 </Div>
 
 
- 
+#### Clonando o projeto
+```sh
+$ git clone https://github.com/NinjaAzul/NLW4.git
+$ cd NLW4-master
+```
+#### Iniciando a API
+```sh
+$ cd Api
 
+# Rodando as migrations para o banco de dados e iniciando o projeto
+ 1° - $ yarn - "Dependencias do projeto"
+ 2° - $ yarn typeorm migration:run - "cria uma migration no SQLITE e cria as tabelas no banco"
+ 3° - $ yarn dev - "inicia o backend" 
+```
+
+<a href="https://insomnia.rest/run/?label=gobarber-jvictorfarias&uri=https%3A%2F%2Fgithub.com%2Fjvictorfarias%2FGoBarber%2Fblob%2Fmaster%2Fapi%2Finsomnia.json" target="_blank"><img src="https://insomnia.rest/images/run.svg" alt="Run in Insomnia"></a>
+
+#### Iniciando o Frontend
+```sh
+Novidades em breve ... 🚀
+```
+
+
+### :memo: Licença
+
+Este projeto é desenvolvido sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para saber mais detalhes.
+
+<p align="center" style="margin-top: 20px; border-top: 1px solid #eee; padding-top: 20px;">Feito com 💙 by <strong>  😎 Erick de Freitas Gonçalves 😎 </strong> </p>
+
+ 
+[![The MIT License](https://img.shields.io/badge/license-MIT-green.svg?style=flat-square)](http://github.com/jvictorfarias/gobarber/LICENSE.md)
