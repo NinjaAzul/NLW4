@@ -55,6 +55,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 - [Sqlite](https://www.sqlite.org/index.html)
 - [Node.js](https://nodejs.org/en/)
+- [Insomnia](https://insomnia.rest/products/insomnia)
 
 
 <Div style{alingnItems: 'center'}> 
